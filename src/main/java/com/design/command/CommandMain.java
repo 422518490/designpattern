@@ -13,7 +13,7 @@ public class CommandMain {
         receiver.register("commandA",new CommandA());
         receiver.register("commandB",new CommandB());
         receiver.register("commandC",new CommandC());
-        
+
         receiver.receive("commandB");
 
         System.out.println("********");

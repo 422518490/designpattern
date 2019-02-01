@@ -1,4 +1,4 @@
-package com.design.Observer;
+package com.design.observer;
 
 /**
  * @author liaoyubo

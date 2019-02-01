@@ -1,4 +1,4 @@
-package com.design.Observer;
+package com.design.observer;
 
 import java.util.List;
 
